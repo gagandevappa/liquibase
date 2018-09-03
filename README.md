@@ -8,4 +8,4 @@ c. functions
 d. triggers
 e. synonymns
 
-**header1 The execution of the scripts expects the liquibase binary to be present in the system where we are executing the commands**
+**The execution of the scripts expects the liquibase binary to be present in the system where we are executing the commands**
